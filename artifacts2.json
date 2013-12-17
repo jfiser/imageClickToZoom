@@ -1,0 +1,90 @@
+{
+    "imageForMapping":"./selected.jpg",
+    "objectsArr":
+    [
+        {
+            "descrip": "<b>Fuji TX-1.</b><br> This panoramic camera is the one I often carry to shoot for myself.",
+            "coords": "<area shape='rect' coords='33,21,144,96'/>"
+        },
+        {
+            "descrip": "<b>One Tajikistan bill.</b><br> It's about $0.2.",
+            "coords": "<area shape='rect' coords='163,38,242,79'/>"
+    
+        },
+        {
+            "descrip": "<b>Japanese earpick.</b><br> I can't find Japanese ones here, so I keep this. You can get chopsticks everywhere, but not earpicks.",
+            "coords": "<area shape='rect' coords='156,102,252,109'/>"
+        },
+        {
+            "descrip": "<b>Japanese mother-and-baby notebook</b><br> provided by the city of Kyoto. I keep a bunch of old documents just in case.",
+            "coords": "<area shape='rect' coords='263,25,328,118'/>"
+        },
+        {
+            "descrip": "<b>DVD of Russian popular serial Interny</b><br>. Someone in Kazakhstan gave this to me. I've never watched it. Sometimes you end up keeping stuff that is not so important for reasons you don't know...",
+            "coords": "<area shape='rect' coords='340,28,425,102'/>"
+        },
+        {
+            "descrip": "<b>Pouch and Coins.</b><br> The metro tokens are from Kiev and St. Petersburg. The coins are: a rare old one from Kazakhstan, a Swiss one and a Tunisian one that someone gave to me in exchange for a Japanese coin. The pouch was a gift from a passenger from Air Astana. I use it as a wallet or passport case.",
+            "coords": "<area shape='rect' coords='435,34,525,108'/>"
+        },
+        {
+            "descrip": "<b>Hermann Hesse postcard.</b><br> I got this at a museum near Lugano, Switzerland. He was one of my favorite authors as a teenager.",
+            "coords": "<area shape='rect' coords='38,124,130,191'/>"
+        },
+        {
+            "descrip": "<b>Sim cards from Eastern Europe and Central Asia.</b><br> I store them in SD card or lens filter cases.",
+            "coords": "<area shape='rect' coords='159,124,235,167'/>"
+        },
+        {
+            "descrip": "<b>CD of Psoy Korolenko</b><br> called Ruskoe Bogastvo Volume II (Russian Treasure (or Russian Wealth) Volume II).",
+            "coords": "<area shape='rect' coords='258,126,350,251'/>"
+        },
+        {
+            "descrip": "<b>Two magnets from Almaty, Kazakhstan.</b><br> Sometimes, I buy too many souvenirs, so some of them become my own.",
+            "coords": "<area shape='rect' coords='373,122,402,178'/>"
+        },
+        {
+            "descrip": "<b>German tablets</b><br> that work well for hangover.",
+            "coords": "<area shape='rect' coords='427,133,467,182'/>"
+        },
+        {
+            "descrip": "<b>Cigarettes called Russian Style.</b><br> These are cheaper than Kent, and better than Winston, I think. (They cost about $1.50).",
+            "coords": "<area shape='rect' coords='497,125,532,184'/>"
+        },
+        {
+            "descrip": "<b>Kodak Film ISO 200</b><br> that I've never used but carry around. This must have been x-rayed a lot.",
+            "coords": "<area shape='rect' coords='57,212,75,241'/>"
+        },
+        {
+            "descrip": "<b>An old German camera.</b><br>",
+            "coords": "<area shape='rect' coords='150,179,236,238'/>"
+        },
+        {
+            "descrip": "<b>A Japanese Talisman.</b><br> This is called Omamori in Japanese and it's supposed to keep you out of trouble. I'm not superstitious but my mother gave it to me so I have to keep it. I got into trouble a lot, anyway, but maybe it helped keep me out of the worst times.",
+            "coords": "<area shape='rect' coords='411,198,452,306'/>"
+        },
+        {
+            "descrip": "<b>Jewish cap.</b><br> When I was in the synagogue in Bukhara, this cap reminded me of a friend. So I bought him one as a souvenir. I don't get out of Eastern Europe/Central Asia much and shipping is also expensive or/and unreliable. So I still keep it.",
+            "coords": "<area shape='rect' coords='476,207,568,313'/>"
+        },
+        {
+            "descrip": "<b>Ricoh GR1v</b><br> that I bought in Japan for a photographer friend but then he sold it back to me later.",
+            "coords": "<area shape='rect' coords='31,262,106,309'/>"
+        },
+        {
+            "descrip": "<b>Three mini-books</b><br> of Lenin, Basho and Pushikin that I carry sometimes but hardly read.",
+            "coords": "<area shape='rect' coords='134,270,240,313'/>"
+        },
+        {
+            "descrip": "<b>Expired Romanian presscard.</b><br>",
+            "coords": "<area shape='rect' coords='256,275,309,304'/>"
+        },
+        {
+            "descrip": "Orthodox icon",
+            "coords": "<area shape='rect' coords='330,270,401,310'/>"
+        }
+    ]
+}
+    
+    
+  
